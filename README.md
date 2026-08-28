@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <h1>Figma To Code MCP</h1>
   <h3>Transform Figma design data into a compact, LLM-friendly format for code generation and UI building.</h3>
@@ -70,6 +72,8 @@ See [`V2_CSS_PROPERTY_MAPPING.md`](./V2_CSS_PROPERTY_MAPPING.md) for complete pr
 ## Getting Started
 
 Many code editors and other AI clients use a configuration file to manage MCP servers.
+
+This server requires Node.js 18 or later.
 
 The `tmegit-figma-to-code-mcp` server can be configured by adding the following to your configuration file.
 
